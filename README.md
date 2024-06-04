@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # GECCO_Anthropogenic_Predator-Prey_Interactions
 
 R code and data associated with Bassing, Ho, and Gardner. 2024.
